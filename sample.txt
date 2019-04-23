@@ -1,0 +1,3 @@
+"%JAVA_HOME%"\bin\java --add-modules java.xml.bind -jar jenkins.war \ --enable-future-java --httpPort=8080 --prefix=/jenkins
+
+The access history in hive \??\C:\Users\admin\AppData\Local\Packages\Microsoft.WindowsStore_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
